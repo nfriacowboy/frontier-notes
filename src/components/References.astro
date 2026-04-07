@@ -1,0 +1,18 @@
+---
+export interface Props {
+  references: Array<{ key: string; citation: string }>;
+}
+
+const { references } = Astro.props;
+---
+
+<section class="references" aria-labelledby="references-heading">
+  <h2 id="references-heading">References</h2>
+  <ol class="reference-list">
+    {references.map((ref) => (
+      <li id={`ref-${ref.key}`}>
+        {ref.citation}
+      </li>
+    ))}
+  </ol>
+</section>

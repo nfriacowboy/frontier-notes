@@ -1,0 +1,43 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  post: CollectionEntry<'posts'>;
+  base: string;
+}
+
+const { post, base } = Astro.props;
+const { title, excerpt, date, category, tags, image, imageAlt, aiDisclosure } = post.data;
+const postUrl = `${base}/blog/${post.slug}`;
+const formattedDate = date.toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<article class="post-card">
+  {image && (
+    <a href={postUrl} class="post-card-image" tabindex="-1" aria-hidden="true">
+      <img src={`${base}${image}`} alt={imageAlt ?? title} width="800" height="420" loading="lazy" />
+    </a>
+  )}
+  <div class="post-card-body">
+    <div class="post-card-meta">
+      <a href={`${base}/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class="category-badge">
+        {category}
+      </a>
+      <time datetime={date.toISOString()}>{formattedDate}</time>
+      {aiDisclosure && <span class="ai-badge" title="AI-assisted">AI</span>}
+    </div>
+    <h2 class="post-card-title">
+      <a href={postUrl}>{title}</a>
+    </h2>
+    <p class="post-card-excerpt">{excerpt}</p>
+    {tags && tags.length > 0 && (
+      <div class="post-card-tags">
+        {tags.slice(0, 4).map((tag) => (
+          <a href={`${base}/tags/${tag.toLowerCase().replace(/\s+/g, '-')}`} class="tag">
+            {tag}
+          </a>
+        ))}
+      </div>
+    )}
+  </div>
+</article>

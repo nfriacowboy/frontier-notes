@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="404 — Page Not Found">
+  <div class="container" style="padding: 6rem 1.5rem; text-align: center;">
+    <h1 style="font-size: 5rem; font-weight: 700; color: var(--color-border); margin-bottom: 1rem;">404</h1>
+    <p style="color: var(--color-text-muted); margin-bottom: 2rem;">This page has gone missing.</p>
+    <a href={import.meta.env.BASE_URL + '/'} class="category-badge" style="font-size: 0.9rem; padding: 0.4rem 1rem;">
+      &larr; Back to home
+    </a>
+  </div>
+</Base>

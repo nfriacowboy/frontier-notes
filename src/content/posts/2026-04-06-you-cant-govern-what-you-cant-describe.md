@@ -17,7 +17,7 @@ tags:
   - "AI Governance"
 image: /images/posts/you-cant-govern-what-you-cant-describe/frontier-notes_00003_.png
 imageAlt: "AI policy framework shielding IoT devices"
-draft: true
+draft: false
 aiDisclosure: true
 ---
 

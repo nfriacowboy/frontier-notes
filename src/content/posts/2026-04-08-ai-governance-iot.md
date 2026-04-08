@@ -1,13 +1,16 @@
 ---
 title: "AI Governance for IoT Devices"
+subtitle: "Unraveling AI Governance for IoT: Navigating Challenges, Embracing Standards, and Implementing Best Practices."
 date: 2026-04-08
 author: nfriacowboy
 excerpt: "With IoT devices becoming ubiquitous, governing embedded AI is critical for security and ethics. This post explores challenges like heterogeneity, data management, and opacity, offering insights into frameworks such as the EU AI Act and NIST's AI RMF to guide responsible implementation."
 category: "AI Governance"
 tags:
-  - "AI"
-  - "IoT"
-  - "governance"
+  - "Artificial Intelligence Regulation"
+  - "Internet Of Things Security"
+  - "Ethical AI Frameworks"
+  - "Policy Implementation Strategies"
+  - "Global AI Standards"
 image: /images/posts/ai-governance-iot/frontier-notes_00004_.png
 draft: false
 aiDisclosure: true

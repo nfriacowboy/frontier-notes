@@ -15,21 +15,21 @@ image: /images/posts/keeping-ais-power-in-check-the-ethical-and-security-dilemma
 draft: false
 aiDisclosure: true
 references:
-  - key: 1
+  - key: "1"
     citation: "Unknown Author. (n.d.). Claude Mythos Preview System Card - anthropic.com. https://www.anthropic.com/claude-mythos-preview-system-card"
-  - key: 2
+  - key: "2"
     citation: "Unknown Author. (n.d.). What Is Claude Mythos—And Why Anthropic Won&#x27;t Let Anyone Use It. https://www.forbes.com/sites/jonmarkman/2026/04/08/what-is-claude-mythos-and-why-anthropic-wont-let-anyone-use-it/"
-  - key: 3
+  - key: "3"
     citation: "Unknown Author. (n.d.). Anthropic limits rollout of Mythos AI model over cyberattack fears - CNBC. https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html"
-  - key: 4
+  - key: "4"
     citation: "Unknown Author. (n.d.). Anthropic debuts preview of powerful new AI model Mythos in new .... https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
-  - key: 5
+  - key: "5"
     citation: "Unknown Author. (n.d.). Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity .... https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html"
-  - key: 6
+  - key: "6"
     citation: "Unknown Author. (n.d.). Meet Claude Mythos: Leaked Anthropic post reveals the ... - Mashable. https://mashable.com/article/claude-mythos-ai-model-anthropic-leak"
-  - key: 7
+  - key: "7"
     citation: "Unknown Author. (n.d.). Anthropic&#x27;s Claude Mythos Is So Powerful, It &#x27;Could Reshape Cybersecurity&#x27;. https://www.inc.com/ben-sherry/anthropics-claude-mythos-is-so-powerful-it-could-reshape-cybersecurity/91327831"
-  - key: 8
+  - key: "8"
     citation: "Unknown Author. (n.d.). Exclusive: Anthropic &#x27;Mythos&#x27; AI model representing &#x27;step change&#x27; in .... https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
 ---
 

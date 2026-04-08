@@ -33,8 +33,6 @@ references:
     citation: "Unknown Author. (n.d.). Exclusive: Anthropic &#x27;Mythos&#x27; AI model representing &#x27;step change&#x27; in .... https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
 ---
 
-## Improved Content:
----
 ## Introduction 
 
 The recent unveiling of Anthropic's most powerful model yet, Claude Mythos [1], has sparked a critical debate within the AI industry [2,3,5,6,7]. This advanced system, with its remarkable ability to identify software vulnerabilities and strengthen digital defences [3,5], also raises serious concerns about its potential misuse by hackers [1,2,3,5,6,8]. As such, Anthropic has decided on a limited rollout [1,2,3,4,5,6,7,8], keeping this powerful tool out of the public domain for now. 
@@ -66,4 +64,3 @@ Anthropic has also engaged in discussions with government agencies [1,3] and ind
 The rollout of Anthropic's Claude Mythos underscores the complex ethical and security dilemmas facing the AI industry today [1,2,3,4,5,6,7]. While these powerful systems offer opportunities to strengthen digital defences, they also pose significant risks if deployed without proper safeguards. Balancing AI's strengths with potential misuse requires careful consideration of technical and governance aspects. 
 
 As security and AI professionals, we must remain vigilant in our efforts to ensure the responsible development and deployment of AI systems like Mythos. This includes rigorous testing [1], ongoing dialogue with stakeholders [1,2,3,4,5,6,7,8], and a commitment to developing robust safeguards that keep pace with these rapidly evolving technologies. By approaching these challenges critically yet collaboratively, we can harness AI's benefits while minimising potential harm.
----

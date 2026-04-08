@@ -9,7 +9,7 @@ tags:
   - "IoT"
   - "governance"
 draft: false
-aiDisclosure: false
+aiDisclosure: true
 ---
 
 # AI Governance Frameworks for IoT Devices: Challenges, Standards, and Best Practices

@@ -4,18 +4,19 @@ subtitle: "Proposal for a Framework for Governing AI Agents"
 date: 2026-04-06
 author: nfriacowboy
 excerpt: "AI agents have shifted from experimental tools to operational actors — taking actions, interacting with systems, and making consequential decisions. Most governance frameworks were built for a world that no longer exists."
-category: AI Governance
+category: "AI Governance"
 tags:
-  - AI Agents
-  - EU AI Act
-  - Policy Engines
-  - Governance by Design
-  - Responsible AI
-  - GDPR
-  - Compliance
-  - Agentic AI
-  - AI Governance
-imageAlt: "Abstract illustration of AI governance frameworks and policy enforcement"
+  - "AI Agents"
+  - "EU AI Act"
+  - "Policy Engines"
+  - "Governance by Design"
+  - "Responsible AI"
+  - "GDPR"
+  - "Compliance"
+  - "Agentic AI"
+  - "AI Governance"
+image: /images/posts/you-cant-govern-what-you-cant-describe/frontier-notes_00003_.png
+imageAlt: "AI policy framework shielding IoT devices"
 draft: false
 aiDisclosure: true
 ---
